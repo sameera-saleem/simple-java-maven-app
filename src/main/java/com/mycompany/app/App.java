@@ -1,6 +1,7 @@
 package com.mycompany.app;
 
 /**
+* sample execution of u20_02project
  * Hello world!
  */
 public class App
